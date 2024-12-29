@@ -21,13 +21,10 @@
 
 ### Объектно-ориентированное программирование (ООП):
 - ✅ Создание классов  
-  - Атрибуты классов  
-  - Конструкторы классов  
+  - Атрибуты классов   
 - ✅ Наследование  
 - ✅ Инкапсуляция  
 - ✅ Полиморфизм  
 
 ### Веб-разработка:
-- ✅ HTML/CSS: создание простых сайтов  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50">
+-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">   ✅ HTML/CSS: создание простых сайтов     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50">
