@@ -20,8 +20,7 @@
 - ✅ Интеграция ИИ в Telegram и Discord-ботов  
 - ✅ Создание интерактивных ИИ-ассистентов  
 
-### 🧪 Тестирование с помощью pytest: 
-                                        <img src="https://github.com/user-attachments/assets/ff008eb0-fe3f-4006-a460-ae194994db71" width="70">
+### 🧪 Тестирование с помощью pytest: <img src="https://github.com/user-attachments/assets/ff008eb0-fe3f-4006-a460-ae194994db71" width="70">
 - ✅ Написание unit-тестов для функций и классов  
 - ✅ Покрытие кода тестами (code coverage)  
 - ✅ Генерация HTML-отчётов с использованием `pytest-cov` и `pytest-html`  
@@ -36,7 +35,6 @@
 - ✅ Наследование, инкапсуляция и полиморфизм  
 
 ### 🌐 Веб-разработка:  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30">  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30">
 - ✅ HTML/CSS: создание простых и адаптивных сайтов  
 
